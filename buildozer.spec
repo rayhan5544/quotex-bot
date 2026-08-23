@@ -6,11 +6,11 @@
 [app]
 
 # (str) Title of your application
-title = My Application
+title = Quotex bot
 
 # (str) Package name
-package.name = myapp
-
+package.name = quotexbot
+requirements = python3,requests
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
 
